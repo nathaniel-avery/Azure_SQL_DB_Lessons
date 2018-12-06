@@ -1,0 +1,1 @@
+This file creates an Azure SQL DB Server and a generic database that are ready to use.  The code is mostly lifted from https://docs.microsoft.com/en-us/azure/sql-database/scripts/sql-database-create-and-configure-database-powershell with some edits.
