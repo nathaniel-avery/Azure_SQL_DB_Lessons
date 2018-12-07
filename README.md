@@ -9,3 +9,5 @@ https://docs.microsoft.com/en-us/azure/sql-database/scripts/sql-database-create-
 
 ## Other POCs
 Other POCs will be added over time.  I also look forward to adding testing and other features.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
